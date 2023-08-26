@@ -11,4 +11,4 @@ Created By:
 Github Id: [rishabhrathi22](https://github.com/tejacharan12)
 
 ### DEMO
-Link: ()
+Link: https://tejacharan12.github.io/covid-awareness/
