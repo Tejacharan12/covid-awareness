@@ -8,7 +8,7 @@ Created By:
 
 ### Teja Charan 
 
-Github Id: [rishabhrathi22](https://github.com/tejacharan12)
+Github Id: (https://github.com/tejacharan12)
 
 ### DEMO
 Link: https://tejacharan12.github.io/covid-awareness/
